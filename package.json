@@ -1,0 +1,1 @@
+{"name":"API com Back-End","version":"1.0.0","description":"","main":"index.js","scripts":{},"keywords":[],"author":"Abraão Oliveira","license":"ISC","dependencies":{"axios":"^1.2.3","express":"^4.18.2"}}
